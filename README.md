@@ -1,4 +1,4 @@
-# i promise to maybe write tests 🧪
+# i promise to maybe write tests 🧪 [exhibit_A.ipynb](exhibit_A.ipynb)
 ## Specifically within jupyter notebooks which is my goto IDE now.
 How I'm going to maybe write code that breaks less.
 
